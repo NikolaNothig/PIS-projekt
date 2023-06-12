@@ -1,6 +1,9 @@
 ## Employee managment
 This project is employee managment application for adding, editing, deleting and filtering employees.
 Whole list and details of employees will be shown inside application. The table consists of the name, surname, age, email of employees as well as of their paycheck and position in the company.
+![image](https://github.com/NikolaNothig/PIS-projekt/assets/115481213/d41129f3-4e81-405b-8944-d1f662c41aee)
+![image](https://github.com/NikolaNothig/PIS-projekt/assets/115481213/eef5fb7d-fc76-4ef4-9467-0472a826f36d)
+
 
 ## Features
 -Add a new employee
