@@ -166,7 +166,7 @@
                     .catch(error => console.error('Error:', error));
             });
     
-            fetch('http://localhost:5000/employees')
+            fetch('http://localhost:5000/employees?${new Date().getTime()}')
                 .then(response => response.json())
                 .then(data => populateList(data, 'list'))
                 .catch(error => console.error('Error:', error));
